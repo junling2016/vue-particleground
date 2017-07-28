@@ -9,7 +9,7 @@
 
 <script>
   import Particle from './Particle'
-  import { requestAnimationFrame, cancelAnimationFrame } from './RAF'
+  import { requestAnimationFrame, cancelAnimationFrame } from './raf'
 
   export default {
     name: 'VParticleground',
