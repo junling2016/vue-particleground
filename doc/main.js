@@ -3,8 +3,11 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import particleground from '@/index'
 
 Vue.config.productionTip = false
+
+Vue.use(particleground)
 
 /* eslint-disable no-new */
 new Vue({
