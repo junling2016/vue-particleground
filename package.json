@@ -4,6 +4,7 @@
   "description": "A Vue.js project",
   "author": "zhengjunling",
   "private": true,
+  "main": "src/index.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
